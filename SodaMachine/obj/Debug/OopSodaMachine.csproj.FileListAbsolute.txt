@@ -1,0 +1,7 @@
+C:\Users\Mikey\source\repos\SodaMachine\SodaMachine\bin\Debug\SodaMachine.exe.config
+C:\Users\Mikey\source\repos\SodaMachine\SodaMachine\bin\Debug\SodaMachine.exe
+C:\Users\Mikey\source\repos\SodaMachine\SodaMachine\bin\Debug\SodaMachine.pdb
+C:\Users\Mikey\source\repos\SodaMachine\SodaMachine\obj\Debug\OopSodaMachine.csprojAssemblyReference.cache
+C:\Users\Mikey\source\repos\SodaMachine\SodaMachine\obj\Debug\OopSodaMachine.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\SodaMachine\SodaMachine\obj\Debug\SodaMachine.exe
+C:\Users\Mikey\source\repos\SodaMachine\SodaMachine\obj\Debug\SodaMachine.pdb
